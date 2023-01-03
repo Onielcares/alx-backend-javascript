@@ -1,4 +1,3 @@
-
 export const weakMap = new WeakMap();
 
 export const queryAPI = (endpoint) => {
